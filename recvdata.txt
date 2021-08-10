@@ -1,0 +1,73 @@
+multimedia applications
+, such as Internet phone,
+ real-time video conferencing,
+ and streaming of stored audio
+ and video. We just mention now
+ that all of these applica-
+tions can tolerate a small 
+amount of packet loss, 
+so that reliable data
+ transfer is not
+absolutely critical
+ for the application’s
+ success. Furthermore,
+ real-time applications,
+like Internet phone and
+ video conferencing, 
+react very poorly to
+ TCP’s congestion
+control. For these
+ reasons, developers
+ of multimedia applications
+ may choose to run
+their applications over UD
+P instead of TCP. When packet 
+loss rates are low, andmultimedia applications
+, such as Internet phone,
+ real-time video conferencing,
+ and streaming of stored audio
+ and video. We just mention now
+ that all of these applica-
+tions can tolerate a small 
+amount of packet loss, 
+so that reliable data
+ transfer is not
+absolutely critical
+ for the application’s
+ success. Furthermore,
+ real-time applications,
+like Internet phone and
+ video conferencing, 
+react very poorly to
+ TCP’s congestion
+control. For these
+ reasons, developers
+ of multimedia applications
+ may choose to run
+their applications over UD
+P instead of TCP. When packet 
+loss rates are low, andmultimedia applications
+, such as Internet phone,
+ real-time video conferencing,
+ and streaming of stored audio
+ and video. We just mention now
+ that all of these applica-
+tions can tolerate a small 
+amount of packet loss, 
+so that reliable data
+ transfer is not
+absolutely critical
+ for the application’s
+ success. Furthermore,
+ real-time applications,
+like Internet phone and
+ video conferencing, 
+react very poorly to
+ TCP’s congestion
+control. For these
+ reasons, developers
+ of multimedia applications
+ may choose to run
+their applications over UD
+P instead of TCP. When packet 
+loss rates are low, and
